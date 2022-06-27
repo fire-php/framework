@@ -1,6 +1,6 @@
 {
-    "name": "firephp/framework",
-    "description": "Fire php is framework MVC-based",
+    "name": "fire-php/framework",
+    "description": "🍹Fire php is framework MVC-based",
     "type": "libray",
     "require": {
         "bramus/router": "dev-master"
